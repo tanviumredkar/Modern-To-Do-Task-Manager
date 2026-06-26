@@ -4,11 +4,11 @@
 
 | Field | Details |
 |-------|---------|
-| **👩‍💻 Intern ID** | CITS2341 |
-| **👤 Full Name** | Tanvi Bapurao Umredkar |
-| **⏳ Number of Weeks** | 4 Weeks |
-| **📌 Project Name** | Modern To-Do Manager |
-| **🎯 Project Scope** | A modern and stylish to-do list web app built with HTML, CSS, and JavaScript. |
+| **Intern ID** | CITS2341 |
+| **Full Name** | Tanvi Bapurao Umredkar |
+| **Number of Weeks** | 4 Weeks |
+| **Project Name** | Modern To-Do Manager |
+| **Project Scope** | A modern and stylish to-do list web app built with HTML, CSS, and JavaScript. |
 
 ---
 
